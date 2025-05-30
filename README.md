@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Erick.
 
-💻 Desenvolvedor Full Stack | Django • Flutter • Ract • Python • Java •Dart •JavaScript• HTML • CSS •MySQL •SQLite •Firebase  
+💻 Desenvolvedor Full Stack | Django • Flutter • React • Python • Java •Dart •JavaScript• HTML • CSS •MySQL •SQLite •Firebase •Docker •Figma
 🚀 Apaixonado por desenvolver soluções criativas e inovadoras.
 📚 Estudante de Engenharia da Computação.
 
