@@ -29,6 +29,6 @@
 
 ## 📫 Como falar comigo?
 
-- LinkedIn: [linkedin/in/erickrmoreira]
-- Instagram: [@erickrmoreira]
+- LinkedIn: linkedin/in/erickrmoreira
+- Instagram: instagram.com/erickrmoreira
 - E-mail: erickrmoreira12@gmail.com
