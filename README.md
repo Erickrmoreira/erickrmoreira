@@ -32,4 +32,3 @@
 - Portfólio: kciresoft.com
 - LinkedIn: linkedin/in/erickrmoreira
 - Instagram: instagram.com/erickrmoreira
-- E-mail: erickrmoreira12@gmail.com
