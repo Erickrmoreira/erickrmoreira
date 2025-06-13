@@ -29,6 +29,6 @@
 
 ## 📫 Como falar comigo?
 
-- Portfólio: kciresoft.com
+- Portfólio: https://erickrmoreira.com.br
 - LinkedIn: linkedin/in/erickrmoreira
 - Instagram: instagram.com/erickrmoreira
