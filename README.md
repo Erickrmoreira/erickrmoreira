@@ -30,5 +30,5 @@
 ## 📫 Como falar comigo?
 
 - Portfólio: https://erickrmoreira.com.br
-- LinkedIn: linkedin/in/erickrmoreira
-- Instagram: instagram.com/erickrmoreira
+- LinkedIn: https://www.linkedin.com/in/erickrmoreira
+- Instagram: https://instagram.com/erickrmoreira
