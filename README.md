@@ -1,12 +1,5 @@
-# 👋 Olá! Eu sou o Erick.
-
-💻 **Desenvolvedor Full Stack**  
-Django • Flutter • React • Python • Java • Dart • JavaScript • HTML • CSS • MySQL • SQLite • Firebase • Docker • Figma  
-
-🚀 Apaixonado por desenvolver soluções criativas, APIs, aplicações web e projetos com Inteligência Artificial.  
-📚 Estudante de Engenharia da Computação.
-
----
+💻 Desenvolvedor Full Stack e Mobile| Django • Flutter • React • Python • Java •Dart •JavaScript• HTML • CSS •MySQL •SQLite •Firebase •Docker •Figma
+🚀 Apaixonado por desenvolver soluções criativas e inovadoras.
 
 ## 🛠️ Tecnologias que uso
 
@@ -25,14 +18,6 @@ Django • Flutter • React • Python • Java • Dart • JavaScript • HTM
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
-
-## 📊 Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickrmoreira&layout=compact&langs_count=8)
-
----
-
 ## 📈 GitHub Stats
 
 ![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erickrmoreira&show_icons=true&theme=default)
@@ -41,6 +26,6 @@ Django • Flutter • React • Python • Java • Dart • JavaScript • HTM
 
 ## 📫 Como falar comigo?
 
-- 🌐 Portfólio: https://erickrmoreira.com.br  
-- 💼 LinkedIn: https://www.linkedin.com/in/erickrmoreira  
-- 📸 Instagram: https://instagram.com/erickrmoreira
+- Portfólio: https://erickrmoreira.com.br
+- LinkedIn: https://www.linkedin.com/in/erickrmoreira
+- Instagram: https://instagram.com/erickrmoreira
