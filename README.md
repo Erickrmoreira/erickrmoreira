@@ -47,12 +47,6 @@ Focado na construção de sistemas backend com Inteligência Artificial, aplican
 
 ---
 
-## 📈 GitHub Stats
-
-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erickrmoreira&show_icons=true&cache_seconds=86400)
-
----
-
 ## 📫 Contato
 
 - 🌐 Portfólio: https://erickrmoreira.com.br  
