@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor Backend Python | IA Aplicada**
 
-💡 Focado na construção de sistemas backend com Inteligência Artificial, aplicando Machine Learning, NLP e Visão Computacional para colocar modelos em produção e transformar dados em soluções reais.
+Focado na construção de sistemas backend com Inteligência Artificial, aplicando Machine Learning, NLP e Visão Computacional para colocar modelos em produção e transformar dados em soluções reais.
 
 ---
 
@@ -44,14 +44,6 @@
 - JavaScript  
 - HTML / CSS  
 - Java  
-
----
-
-## 🚀 Sobre mim
-
-Atuo no desenvolvimento de aplicações que integram inteligência artificial ao backend, com foco em desempenho, escalabilidade e uso prático em ambientes reais.
-
-Tenho experiência na construção de APIs, processamento de dados, sistemas inteligentes e transformação de modelos em serviços prontos para produção.
 
 ---
 
