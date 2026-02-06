@@ -21,11 +21,11 @@ Focado na construção de sistemas backend com Inteligência Artificial, aplican
 **Backend & IA**
 
 - Python  
-- FastAPI  
-- Django  
 - Machine Learning  
 - Computer Vision  
 - NLP  
+- FastAPI  
+- Django
 
 **Dados e Infraestrutura**
 
