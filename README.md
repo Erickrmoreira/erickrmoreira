@@ -1,4 +1,4 @@
-# Erick Ribeiro
+# Erick Ribeiro Moreira
 
 💻 **Desenvolvedor Backend Python | IA Aplicada**
 
