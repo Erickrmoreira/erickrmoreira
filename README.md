@@ -29,6 +29,7 @@ Focado na construção de sistemas backend com Inteligência Artificial, aplican
 
 **Dados e Infraestrutura**
 
+- PostgreSQL
 - MySQL  
 - SQLite  
 - Docker  
