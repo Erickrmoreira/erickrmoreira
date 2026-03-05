@@ -1,24 +1,23 @@
 # Erick Ribeiro Moreira
 
-💻 **Desenvolvedor Backend Python | IA Aplicada**
+💻 Backend Developer & AI Engineer
 
-Focado na construção de sistemas backend com Inteligência Artificial, aplicando Machine Learning, NLP e Visão Computacional para colocar modelos em produção e transformar dados em soluções reais.
-
----
-
-## 🔥 Especialidades
-
-- Desenvolvimento de sistemas backend com IA em produção  
-- Construção e deploy de APIs inteligentes  
-- Integração de modelos de Machine Learning a aplicações reais  
-- Arquitetura de sistemas orientados a dados  
-- Criação de soluções escaláveis  
+Backend developer focused on building systems with Artificial Intelligence, applying Machine Learning, NLP, and Computer Vision to integrate models into real-world applications.
 
 ---
 
-## 🧠 Stack Principal
+## 🔥 Specialties
 
-**Backend & IA**
+- Machine Learning, Computer Vision and NLP
+- API development with FastAPI
+- Building web applications with Django
+- Backend architecture and development
+
+---
+
+## 🧠 Main Stack
+
+**Backend & AI**
 
 - Python  
 - Machine Learning  
@@ -27,7 +26,7 @@ Focado na construção de sistemas backend com Inteligência Artificial, aplican
 - FastAPI  
 - Django
 
-**Dados e Infraestrutura**
+**Data and Infrastructure**
 
 - PostgreSQL
 - MySQL  
@@ -37,9 +36,9 @@ Focado na construção de sistemas backend com Inteligência Artificial, aplican
 
 ---
 
-## ➕ Tecnologias Complementares
+## ➕ Additional Technologies
 
-*(Utilizadas para integração de sistemas e desenvolvimento de aplicações completas)*
+*(Used for system integration and full application development)*
 
 - React  
 - JavaScript  
@@ -48,9 +47,9 @@ Focado na construção de sistemas backend com Inteligência Artificial, aplican
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-- 🌐 Portfólio: https://erickrmoreira.com.br  
+- 🌐 Portfolio: https://erickrmoreira.com.br  
 - 💼 LinkedIn: https://www.linkedin.com/in/erickrmoreira  
 
 ---
