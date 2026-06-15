@@ -30,7 +30,8 @@ Backend developer focused on building systems with Artificial Intelligence, appl
 
 - PostgreSQL
 - MySQL  
-- SQLite  
+- SQLite
+- Redis
 - Docker  
 - Git / GitHub  
 
@@ -43,7 +44,6 @@ Backend developer focused on building systems with Artificial Intelligence, appl
 - React  
 - JavaScript  
 - HTML / CSS  
-- Java  
 
 ---
 
